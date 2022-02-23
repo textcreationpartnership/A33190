@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The city of Londons loyal plea, or, A rational stating the case concerning the election of sheriffs for the city of London and county of Middlesex</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33190</idno>
+            <idno type="STC">Wing C4358</idno>
+            <idno type="STC">ESTC R15375</idno>
+            <idno type="EEBO-CITATION">12950770</idno>
+            <idno type="OCLC">ocm 12950770</idno>
+            <idno type="VID">95898</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33190)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95898)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 733:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The city of Londons loyal plea, or, A rational stating the case concerning the election of sheriffs for the city of London and county of Middlesex</title>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Taylor ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>City of London (England).</term>
+               <term>Sheriffs --  England --  London.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95898:1"/>
+            <pb facs="tcp:95898:1" rendition="simple:additions"/>
+            <p>THE CITY of <hi>LONDONS</hi> LOYAL PLEA: OR, A Rational ſtating the CASE CONCERNING <hi>The Election of Sheriffs</hi> FOR THE CITY of LONDON AND COUNTY of MIDDLESEX.</p>
+            <p>
+               <hi>Read ſeriouſly, Judge not raſhly.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Randal Taylor</hi> near Stationers Hall. 1682.</p>
+         </div>
+         <div type="author_to_citizens_of_London">
+            <pb facs="tcp:95898:2" rendition="simple:additions"/>
+            <head>TO THE CITIZENS OF THE HONOURABLE CITY OF LONDON.</head>
+            <opener>
+               <salute>WORTHY SIRS,</salute>
+            </opener>
+            <p>
+               <hi>SInce that the Election of Sheriffs hath unhappily been the Buſtle and common talk of the Town, and that ſeveral Papers and Books have been written and diſperſed, which tend to nothing elſe but the exaſperating of Paſsions, widening our Breaches, and extinguiſhing Chriſtian and Brotherly Love; I do therefore humbly appear as Moderator. And (with your Pardon) preſume to preſent you with</hi> A Chain of Particulars, <hi>which, when duly and calmly conſidered, will ſerve, I hope, to ac<g ref="char:EOLhyphen"/>commodate our preſent Differences, and reſtore us to a right un<g ref="char:EOLhyphen"/>derſtanding. It is no great matter what Party the Writer is of. But this I aſſure you, that he is one who delights to diſcern and diſtinguiſh between Truth and Errour, and very much loves to reconcile Enemies, and heartily prays for the welfare and increaſe of all honeſt and loyal men in the honourable City of</hi> LONDON.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:95898:2"/>
+            <head>SEVERAL PARTICULARS Offered to all <hi>
+                  <g ref="char:V">Ʋ</g>NBIASSED</hi> and <hi>INTELLIGENT</hi> CITIZENS.</head>
+            <p>THe City of <hi>Londons</hi> Corporation (conſtituted by ſeveral Grants from the Kings of <hi>England</hi>) conſiſts of a Lord Major, Commonal<g ref="char:EOLhyphen"/>ty, and Citizens; or of a Lord Major, Barons and Citizens.</p>
+            <p>The Prime and Principal part of which Royal conſtituted Cor<g ref="char:EOLhyphen"/>poration, is the Lord Major.</p>
+            <p>And the Barons, or Commonalty and Citizens of <hi>London</hi> in conjunction with the Lord Major, makes up the whole Corporation.</p>
+            <p>The Lord Major as the Prime and Supreme part of <hi>Londons</hi> Corporation, Cites, Summons, Convenes, Calls and Aſſembles, the Commonalty and Citizens of <hi>London,</hi> according to Cuſtom, and the emergencies and exigencies of the Ci<g ref="char:EOLhyphen"/>ties Affairs.</p>
+            <p>And the Barons, Commonalty, and Citizens of the City of <hi>London</hi> have al<g ref="char:EOLhyphen"/>ways (time out of mind) appeared, met, and aſſembled in obeyſance to his Lord<g ref="char:EOLhyphen"/>ſhips precept and appointment.</p>
+            <p>The Election of Sheriffs for the City of <hi>London</hi> and County of <hi>Middleſex</hi> (as all the Charters rehearſed in the City Plea ſay) is by Royal Grace and Bounty granted to the Lord Major, Barons, Commonalty, and Citizens of <hi>London.</hi>
+            </p>
+            <p>In all which Royal Grants, concerning the Election of Sheriffs, (pray obſerve) that the Lord Major is firſt named, and muſt be at leaſt equally concerned with the Commonalty and Citizens of <hi>London</hi> in the Election of <hi>Sheriffs.</hi>
+            </p>
+            <p>And as the Lord Major by himſelf is not <hi>Londons</hi> Corporation without the Commonalty and Citizens, ſo the Commonalty and Citizens is no Corporation without a Lord Major.</p>
+            <p>For no man can be a Lord Major, that is not a Citizen: and a Citizen, when made Lord Major, is the Prime and principal part of <hi>Londons</hi> Corporation.</p>
+            <p>Theſe Premiſes being duely conſidered and granted, it will then follow, that the Sheriffs elected by the joint conſent of the Lord Major, Commonalty, and Citizens of <hi>London,</hi> are but (under the KING) Servants to the Electors; and conſequently can have no Power, Authority, and Juriſdiction over them that elected them, but what the Common-Law allows, and the City Charter grants.</p>
+            <p>Now in all the Common-Law, and in all the City Charters, there is no Uſage, Cuſtom, Priviledge, Power, or Authority given to the Sheriffs of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> and <hi>Middleſex,</hi> for to Cite, Summon, Call, Convene, and Aſſemble the
+<pb n="2" facs="tcp:95898:3"/>Lord Major, Barons, Commonalty and Citizens of <hi>London</hi> to nominate and chuſe two Sheriffs for the ſaid City and County for the Year enſuing.</p>
+            <p>And therefore if by Common-Law and City-Charters the Sheriffs cannot call, convene, and conſtitute a Court, then certainly the Sheriffs, (if concerned at all in that Court) are but miniſterial Officers, and no ways Managers or Judges of Affairs tranſacted in it.</p>
+            <p>The Cities great Court, called the <hi>Huſtings,</hi> is not now, and never was al<g ref="char:EOLhyphen"/>lowed to be a Court without a Lord Major and ſix Aldermen at the leaſt open<g ref="char:EOLhyphen"/>ing of it, and ſitting in it.</p>
+            <p>And though it may be ſometimes the County Court, yet in the memory of Man it was never known, that any Sheriffs did offer to keep it as the County Court, without ſix Aldermen at the leaſt ſitting, and the Lord Major preſiding in it.</p>
+            <p>Therefore for any Sheriffs to call the Huſtings their Court, becauſe it is the County Court, and to manage, order, and appoint the Affairs thereof without a Lord Major and ſix Aldermen, is perfectly illegal, arbitrary, as being againſt Law, Uſage, Cuſtom, City-Grants, and all Preſidents in Good and Regular Times.</p>
+            <p>If the Lord Major hath not a greater, ye the hath an equal Power with the Barons, Commonalty, and Citizens of <hi>London</hi> in the electing of Sheriffs, be<g ref="char:EOLhyphen"/>cauſe (as the City Plea ſays) the Election is given to the Lord Major, Com<g ref="char:EOLhyphen"/>monalty, and Citizens of <hi>London.</hi>
+            </p>
+            <p>By which it plainly appears, That the Lord Majors Vote and conſent is as neceſſary to the Election of Sheriffs, as the Vote and conſent of the Commo<g ref="char:EOLhyphen"/>nalty and Citizens. And if there be not a joint concurrence and conſent of both Lord Major and Commonalty, there can be no man elected Sheriff.</p>
+            <p>For all the Charters which impower the Commonalty and Citizens of <hi>Lon<g ref="char:EOLhyphen"/>don</hi> to chuſe two Sheriffs, do alſo nominate, appoint, and conſtitute the Lord Major as the Prime and principal Perſon to be concerned in the Election.</p>
+            <p>For mutual concord and agreement therefore between theſe two parts of the Corporation, It may be rationally preſumed that the Commonalty and Citi<g ref="char:EOLhyphen"/>zens of <hi>London,</hi> did (in a complying reſpect and honour to the Lord Major) allow him the nominating of one perſon, and reſerve to themſelves the nomina<g ref="char:EOLhyphen"/>ting another perſon for the Sheriffs of <hi>London</hi> and <hi>Middleſex.</hi>
+            </p>
+            <p>And look who was the perſon or perſons nominated and preſented by each one to another, he or they, was by the Lord Major and Citizens jointly appro<g ref="char:EOLhyphen"/>ved and confirmed.</p>
+            <p>And that this Preſumption is rational, may begathered from the uſual practice of both parts of the Corporation in this matter.</p>
+            <p>The firſt part of the Corporation (as I ſaid before) is the Lord Major. Now He (<hi>time out of mind,</hi> the great Argument in the Cities Plea) did ever nominate a Sheriff for the Year enſuing, by the Ceremony of Drinking to him by Name, in ſome certain place, and before ſeveral Witneſſes. And the time of this Naming a Sheriff by Drinking to, was a Week or Weeks before <hi>Midſummer</hi> Day.</p>
+            <p>Upon which Midſummer Day that followed that Drinking to, the Barons, Commonalty, and Citizens of <hi>London,</hi> were <hi>by the Lord Majors Precept,</hi> called and aſſembled for the Election of two Sheriffs for the year enſuing.</p>
+            <p>And when they were ſo aſſembled, the firſt perſon that was nominated and preſented to the Common Hall to be elected Sheriff, was the man whom the Lord Major had drank to by the Name or Title of <hi>Sheriff</hi> before that Midſum<g ref="char:EOLhyphen"/>mer
+<pb n="3" facs="tcp:95898:3"/>Day: And the Common Hall have (time out of mind) conſtantly accepted, approved, and confirmed that very perſon for Sheriff which was preſented to them by the Lord Major.</p>
+            <p>And on the other ſide: When the Commonalty and Citizens of <hi>London</hi> aſ<g ref="char:EOLhyphen"/>ſembled in Guild-hall on Midſummer day, did elect and chooſe one other perſon to be Fellow-Sheriff with him whom before they choſe and confirmed, then the Lord Major (time out of mind) hath always conſented to, and confirmed that their Election.</p>
+            <p>Now upon this joint conſent and mutual practice of accepting, approving, and confirming two men to be Sheriffs, both by the Lord Major, and Commons, and Citizens of <hi>London,</hi> I may reaſonably infer, that there was originally ſome compact and agreement or other between both parts of the Corporation about this matter.</p>
+            <p>I do the rather believe it, becauſe the general Uſage, Cuſtom, and Practice of the Commoners confirming the perſon whom the Lord Major preſented: And the Lord Majors accepting and confirming whom the Commoners preſented by their Election, hath been time out of mind, or near two hundred years ſtanding.</p>
+            <p>And for a farther demonſtration that the Lord Major hath an equal power and conſent in the Election of Sheriffs with the Commonalty and Citizens of <hi>London:</hi>
+            </p>
+            <div type="part">
+               <head>Pray conſider theſe following Particulars:</head>
+               <p>Firſt, That the perſons drank to by the Lord Major before Midſummer day under the name and notion of <hi>Sheriffs</hi> for the Year enſuing, have many times ap<g ref="char:EOLhyphen"/>peared before the Lord Major and Court of Aldermen, with a requeſt to be re<g ref="char:EOLhyphen"/>leaſed from the Office to which they were conſigned by my Lord Majors drink<g ref="char:EOLhyphen"/>ing to; and that upon the payment of a Fine.</p>
+               <p>And now I appeal to all the ſober, reaſonable and obſerving men of this honou<g ref="char:EOLhyphen"/>rable City, Whether they do not remember and know ſeveral of their Friends, and ſome ſcores of their Fellow-Citizens that paid their Fines, to be excuſed from the Office of Sheriff. And this done too before Midſummer day.</p>
+               <p>Now if this hath been a conſtant cuſtom (time out of mind) for men to diſ<g ref="char:EOLhyphen"/>charge themſelves by Fine from the Office of Sheriff, to which they were ele<g ref="char:EOLhyphen"/>cted no other way but by the Lord Majors drinking to: then pray judge, Whe<g ref="char:EOLhyphen"/>ther all your Anceſtors, and many eminent Citizens now living, have not owned, allowed, and approved that the Lord Majors drinking to a man as Sheriff be<g ref="char:EOLhyphen"/>fore Midſummer day, was a ſufficient electing him to that office. For if they did not, then certainly they would not have paid their Fines and got off by ſuch a method.</p>
+               <p>Secondly conſider, Whether the Commonalty and Citizens of <hi>London</hi> aſ<g ref="char:EOLhyphen"/>ſembled in Guild-hall on Midſummer day, did ever offer to name, much leſs to elect for Sheriff any of thoſe men, who (upon my Lord Majors drinking to as Sheriffs) had excuſed themſelves from that Office by Bond or Fining before Midſummer day.</p>
+            </div>
+            <div type="example">
+               <head>As for Example.</head>
+               <p>Sir <hi>Robert Clayton</hi> in his Majoralty had drank to five or ſix for Sheriff, and that before Midſummer day. And all theſe perſons had excuſed or diſcharged themſelves by Fine or Bond before Midſummer day. And yet (obſerve it) the Common Hall upon Midſummer day named not one of theſe to be elected Sheriff by them.</p>
+               <pb n="4" facs="tcp:95898:4"/>
+               <p>By which it is apparent, that the Commonalty and Citizens of <hi>London</hi> have yielded the Point; that they cannot nominate or elect any man upon Midſum<g ref="char:EOLhyphen"/>mer day to be Sheriff for the year enſuing, who hath fined for Sheriff upon the Lord Majors drinking to before that Midſummer day.</p>
+               <p>And if no preſident can be brought againſt what I have ſaid, then we muſt conclude, that the Commonalty and Citizens of <hi>London</hi> have time out of mind owned, and granted, that the Lord Majors drinking to a perſon, as Sheriff, be<g ref="char:EOLhyphen"/>fore Midſummer day is a juſt and good electing him to that Office for that Year; or elſe why did the Common Hall never chuſe that man, who had fined upon the Lord Majors drinking to.</p>
+               <p>Thirdly conſider, That if the Election of both the Sheriffs lies ſolely in the power of the Commonalty and Citizens of <hi>London,</hi> how comes it then to paſs, that the liberty of Fining and not Fining, and the Prerogative of holding or diſ<g ref="char:EOLhyphen"/>charging of Sheriffs elected by you, is wholly in the pleaſure of the Lord Major and Court of Aldermen.</p>
+               <p>Were Sheriffs made ſolely by the Vote and Election of the Commonalty and Citizens of <hi>London,</hi> then they could never be diſcharged or releaſed from that Office by a Fine, unleſs they have your vote and conſent. Be certain, the power of <hi>Binding</hi> and <hi>Looſing</hi> go together.</p>
+               <p>Laſtly conſider, That this denying and depriving the Lord Major of electing a Sheriff by the Ceremony of drinking to, muſt of neceſſity impoveriſh the Chamber of <hi>London.</hi>
+               </p>
+               <p>For by the courſe taken theſe two laſt years, you not onely prevent the In<g ref="char:EOLhyphen"/>come of Sheriffs Fines for the future: But you muſt draw upon your ſelves ſome ſcores of perſons that will lay a claim to many thouſands of pounds in your Treaſury.</p>
+               <p>For at the ſame time that you can prove that the Lord Majors drinking to a perſon as Sheriff, is no Election, at that very time you will have hundreds challenging the City to repay thoſe Fines which they paid to be diſcharged from the Office of Sheriff, and were no ways elected to it, but by the Lord Majors drinking to.</p>
+               <p>And therefore when you make it out that the Lord Major hath no power to elect, then they will make it out that their Money and Fines was illegally paid and received.</p>
+               <p>And though it may be objected, that theſe perſons aforeſaid, did voluntarily pay their Fines, and <hi>volenti non fit injuria,</hi> yet obſerve, that they paid them upon a certain belief that it was the undoubted and uninterrupted legal Right, Priviledge and Prerogative of the Lord Major to chuſe a Sheriff by drinking to. Or elſe we can never imagine that ſo many hundreds of knowing and prudent Citizens ſhould ever ſo tamely and voluntarily pay their Fines.</p>
+               <p>In ſhort, If you yield and allow the Lord Major to chuſe a Sheriff by drink<g ref="char:EOLhyphen"/>ing to, you then preſerve the City Treaſury, and the Fines raiſed upon ſuch that went off upon the Lord Majors drinking to.</p>
+               <p>But if you rend and tear this Prerogative from the Chair, and will not allow that the Lord Major ever had a power of chuſing a Sheriff, you are then bound in equity, conſcience, and honour to reſtore all the Money and Fines to thoſe Gentlemen, who were never choſen Sheriffs but by the Lord Major, and who paid their Fines to be diſcharged from that Office.</p>
+            </div>
+            <div type="conclusion">
+               <pb n="5" facs="tcp:95898:4"/>
+               <head>The Concluſion.</head>
+               <p>Worthy Sirs, Therefore as you love and tender the many great and gra<g ref="char:EOLhyphen"/>cious Immunities, Liberties, and Priviledges which have been given to the City of <hi>London</hi> by Royal Grants. I beſeech you to keep within the bounds of Mo<g ref="char:EOLhyphen"/>deſty and Moderation.</p>
+               <p>It is readily granted that the Faileurs of a private perſon, or the indecent De<g ref="char:EOLhyphen"/>portment and Miſcarriage of a ſingle Officer and ſome few men, cannot poſſibly forfeit your Charter.</p>
+               <p>But the hot-headed and imprudent act of the whole, or major part of a Cor<g ref="char:EOLhyphen"/>poration, when aſſembled, may do that miſchief to You and your Charter, which cannot be repaired without <hi>Charge</hi> and <hi>Repentance.</hi>
+               </p>
+               <p>And who knows but there are ſome <hi>behind the Curtain,</hi> who out of Pride, Ambition, love of Popular Applauſe, ſecret Diſguſts, and vowed Revenge, are hurrying you on to this diſmal downfal.</p>
+               <p>Beware of a too forward placing the ſole power of Electing Sheriffs for <hi>London</hi> and <hi>Middleſex</hi> in the Commonalty and Citizens of <hi>London.</hi> For if you exclude the Lord Major from a Vote and conſent with you, you then diſſolve the Corporation of <hi>London;</hi> becauſe You are not that Corporation which is conſtituted by Charter.</p>
+               <p>Look over therefore all the Charters granted by ſeveral Kings, and you will find that in the caſe of Electing Sheriffs, the Lord Major is firſt and principally named and concerned. And without his Vote, Conſent, and Pleaſure, all the men in your honourable City cannot chuſe and make a Sheriff or Sheriffs.</p>
+               <q>Give every man his Due. It is the onely way to be ſafe.</q>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
